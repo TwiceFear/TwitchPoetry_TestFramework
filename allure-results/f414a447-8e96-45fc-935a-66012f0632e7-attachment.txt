@@ -1,0 +1,3 @@
+Streamer video player is visible.
+Video is now playing.
+Screenshot saved: twitch_streamer_StarCraft II.png

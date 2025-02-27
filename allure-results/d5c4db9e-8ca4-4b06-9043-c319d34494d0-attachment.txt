@@ -1,0 +1,30 @@
+Waiting for the video player to load...
+Video player is visible.
+Ensuring the video is playing (not blank)...
+Warning: Video might still be initializing: Message: invalid argument: 'value' must be a string
+  (Session info: chrome=133.0.6943.127)
+Stacktrace:
+	GetHandleVerifier [0x006D0B43+25139]
+	(No symbol) [0x006613F4]
+	(No symbol) [0x005404E3]
+	(No symbol) [0x00587F08]
+	(No symbol) [0x0058872B]
+	(No symbol) [0x005D1002]
+	(No symbol) [0x005AD014]
+	(No symbol) [0x005CE778]
+	(No symbol) [0x005ACDC6]
+	(No symbol) [0x0057BDE9]
+	(No symbol) [0x0057D124]
+	GetHandleVerifier [0x009D4373+3185251]
+	GetHandleVerifier [0x009F291A+3309578]
+	GetHandleVerifier [0x009ECF42+3286578]
+	GetHandleVerifier [0x00767AE0+643536]
+	(No symbol) [0x0066A20D]
+	(No symbol) [0x006670B8]
+	(No symbol) [0x00667257]
+	(No symbol) [0x00659E00]
+	BaseThreadInitThunk [0x7746FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x777D82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x777D827E+238]
+, but proceeding with the screenshot.
+Screenshot saved: twitch_streamer_StarCraft II.png
